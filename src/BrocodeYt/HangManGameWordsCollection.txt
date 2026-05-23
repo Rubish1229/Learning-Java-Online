@@ -1,0 +1,10 @@
+apple
+banana
+mango
+orange
+momo
+pizza
+bicycle
+computer
+burger
+nice
